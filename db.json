@@ -1,0 +1,35 @@
+{
+  "users": [
+	{
+	  "id": 1,
+	  "name": "",
+	  "email": "",
+	  "office": "",
+	  "department": "",
+	  "status": "",
+	  "updateAt": ""
+	},
+    {
+	  "id": 2,
+	  "name": "",
+	  "email": "",
+	  "office": "",
+	  "department": "",
+	  "status": "",
+	  "updateAt": ""
+	}	
+  ],
+  
+  "projects": [
+    {
+	  "projectNumber": "123456789",
+	  "projectName": "",
+	  "accessLevel": ""
+    },
+    {
+	  "projectNumber": "201675",
+	  "projectName": "",
+	  "accessLevel": ""
+    }	
+  ]
+}
