@@ -1,0 +1,22 @@
+{
+  [
+	{
+	  id: 1,
+	  name: '',
+	  email: '',
+	  office: '',
+	  department: '',
+	  status: '',
+	  updateAt: ''
+	},
+    {
+	  id: 1,
+	  name: '',
+	  email: '',
+	  office: '',
+	  department: '',
+	  status: '',
+	  updateAt: ''
+	}	
+  ]
+}
