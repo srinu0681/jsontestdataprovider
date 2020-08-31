@@ -6,7 +6,7 @@
       "lastName": "Demo",
       "email": "Joedemo@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -39,7 +39,7 @@
       "lastName": "Demo",
       "email": "jackdemo@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -50,7 +50,7 @@
       "lastName": "Bosco",
       "email": "danb@ctc.com",
       "office": "Dallas",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-15",
       "description": "description"
@@ -61,7 +61,7 @@
       "lastName": "Woody",
       "email": "allenwoody@ctc.com",
       "office": "Seattle",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-07-20",
       "description": "description"
@@ -72,7 +72,7 @@
       "lastName": "Alfred",
       "email": "ausalfred@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-10",
       "description": "description"
@@ -83,7 +83,7 @@
       "lastName": "Hans",
       "email": "arphans@ctc.com",
       "office": "Irving",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-06-20",
       "description": "description"
@@ -94,7 +94,7 @@
       "lastName": "Hugo",
       "email": "ballhugo@ctc.com",
       "office": "Dallas",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -105,7 +105,7 @@
       "lastName": "Jack",
       "email": "backerjack@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -116,7 +116,7 @@
       "lastName": "Rodriguez",
       "email": "miguelrodrig@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Inactive",
       "updatedAt": "2020-08-10",
       "description": "description"
@@ -127,7 +127,7 @@
       "lastName": "Felix",
       "email": "michfelix@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -138,7 +138,7 @@
       "lastName": "Pacho",
       "email": "docpacho@ctc.com",
       "office": "Dallas",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -149,7 +149,7 @@
       "lastName": "Escobar",
       "email": "pabloesco@ctc.com",
       "office": "Houston",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -160,7 +160,7 @@
       "lastName": "Penya",
       "email": "keethpenya@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -171,7 +171,7 @@
       "lastName": "Murphy",
       "email": "edmurphy@ctc.com",
       "office": "Houston",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -182,7 +182,7 @@
       "lastName": "Hanks",
       "email": "tomhanks@ctc.com",
       "office": "Dallas",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -193,7 +193,7 @@
       "lastName": "Smith",
       "email": "willsmith@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -204,7 +204,7 @@
       "lastName": "Eastwood",
       "email": "clintest@ctc.com",
       "office": "LasVegas",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -215,7 +215,7 @@
       "lastName": "Freeman",
       "email": "morgfree@ctc.com",
       "office": "LasVegas",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -226,7 +226,7 @@
       "lastName": "Cruise",
       "email": "tomcruise@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -237,7 +237,7 @@
       "lastName": "Gibson",
       "email": "melgibson@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -248,7 +248,7 @@
       "lastName": "Decaprio",
       "email": "leodecaprio@ctc.com",
       "office": "Bloomington",
-      "department": "Exterious",
+      "department": "Exterior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -270,7 +270,7 @@
       "lastName": "Ryan",
       "email": "megryan@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -281,7 +281,7 @@
       "lastName": "Villegas",
       "email": "enricovill@ctc.com",
       "office": "Bloomington",
-      "department": "Exterious",
+      "department": "Exterior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -292,7 +292,7 @@
       "lastName": "Debb",
       "email": "stevedebb@ctc.com",
       "office": "Bloomington",
-      "department": "Exterious",
+      "department": "Exterior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -303,7 +303,7 @@
       "lastName": "Depp",
       "email": "dannydepp@ctc.com",
       "office": "Bloomington",
-      "department": "Exterious",
+      "department": "Exterior",
       "status": "Active",
       "updatedAt": "2020-08-20",
       "description": "description"
@@ -314,7 +314,7 @@
       "lastName": "Willies",
       "email": "brucewillies@ctc.com",
       "office": "Bloomington",
-      "department": "Interious",
+      "department": "Interior",
       "status": "Inactive",
       "updatedAt": "2020-08-20",
       "description": "description"
